@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RobAndEdu
-- 👀 I’m interested in Development of software solutions to meet people's needs
-- 🌱 I’m currently learning Python, HTML, CSS, JAVASCRIPT, Kotlin
+- 👋 Olá me chamo Robson Andrei sou desenvolvedor de softwares e aplicativos
+- 👀 Minha área de interesse é a tecnologia, e grupos de simpatizantes
+- 🌱 Atualmente estudo Python, HTML, CSS, JAVASCRIPT, Kotlin, sou Bacharel em Sistemas de Informação pela PUCRS 
 - 💞️ I’m looking to collaborate on development of software
 - 📫 How to reach me robson.andrei@edu.pucrs.br
 
@@ -34,6 +34,7 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" style="max-width:100%;">
+  <img align="center" height="30" width="40" src="https://ebooks.pucrs.br/edipucrs/acessolivre/anais/cieia/assets/svg/logo-pucrs.svg" style="max-width:100%;">
    
   
   

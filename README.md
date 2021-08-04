@@ -16,27 +16,28 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width:100%;">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" style="max-width:100%;">
-  <img align="center" height="50" width="60" src="https://ebooks.pucrs.br/edipucrs/acessolivre/anais/cidu/assets/svg/logo-pucrs-marista-branco.svg" style="max-width:100%;">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" style="max-width:100%;">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" style="max-width:100%;">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="max-width:100%;">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="max-width:100%;">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="max-width:100%;">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" style="max-width:100%;">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="max-width:100%;">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" style="max-width:100%;">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" style="max-width:100%;">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width:100%;">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="max-width:100%;">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" style="max-width:100%;">
+  <img align="center" height="50" width="60" src="https://ebooks.pucrs.br/edipucrs/acessolivre/anais/cidu/assets/svg/logo-pucrs-marista-branco.svg" style="max-width:100%;">
+  
+  
  
    
     

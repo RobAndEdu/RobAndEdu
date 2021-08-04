@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" style="max-width:100%;">
-  <img align="center" height="30" width="40" src="https://ebooks.pucrs.br/edipucrs/acessolivre/anais/cieia/assets/svg/logo-pucrs.svg" style="max-width:100%;">
+  <img align="center" height="30" width="40" src="https://ebooks.pucrs.br/edipucrs/acessolivre/anais/cidu/assets/svg/logo-pucrs-marista-branco.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" style="max-width:100%;">

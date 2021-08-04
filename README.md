@@ -35,6 +35,7 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" style="max-width:100%;">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width:100%;">
  
    
     

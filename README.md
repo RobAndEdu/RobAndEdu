@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on development of software
 - 📫 How to reach me robson.andrei@edu.pucrs.br
 
-<!---
-RobAndEdu/RobAndEdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/RobAndEdu">
+    <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=RobAndEdu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" scr="https://github-readme-stats.vercel.app/top-langs/?username=RobAndEdu&layout=compact&langs_count=1668&theme=dracula"/>
+</div>

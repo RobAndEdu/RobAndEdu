@@ -15,6 +15,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width:100%;">
@@ -29,7 +30,6 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="max-width:100%;">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" style="max-width:100%;">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" style="max-width:100%;">
